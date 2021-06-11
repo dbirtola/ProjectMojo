@@ -1,0 +1,794 @@
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Development\AudiokineticTools\Definitions.AudiokineticTools.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AkAudioBankGenerationHelpers.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Public\AkAudioBankGenerationHelpers.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAudioBank.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAssetBase.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Public\AkAudioDevice.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Public\AkInclude.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\apiquery2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapifromapp.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\wincontypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\consoleapi3.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um\ime_cmodes.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkUEFeatures.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/AkWwiseSDKVersion.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngine.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSoundEngineExport.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/AkPlatforms.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkTypes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkTypes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlugin.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCommonDefs.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerConfig.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkSpeakerVolumes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Generic/AkSpeakerVolumes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkPlatformFuncs.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkAtomic.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkAtomic.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkPlatformFuncs.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkAssert.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPluginMemAlloc.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMemoryMgr.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkArray.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkObject.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkString.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkFNVHash.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkHashList.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyDef.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkRTPCSubscriber.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkFPUtilities.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkLock.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Win32/AkLock.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkMonitorError.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkProcessorFeatures.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkPlatformContext.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkMidiTypes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkCallback.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt\math.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkWinSoundEngine.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Platforms/Windows/AkPlatformContext.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudio.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SpatialAudio/Common/AkSpatialAudioTypes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkKeyArray.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Tools/Common/AkSet.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Plugin/AkReflectGameData.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/IBytes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkModule.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/IAkStreamMgr.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkStreamMgrModule.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/MusicEngine/Common/AkMusicEngine.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/Comm/AkCommunication.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/SoundEngine/Common/AkQueryParameters.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkBankManager.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkGameplayTypes.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkUEPlatform.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows/AkWindowsPlatform.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformBase.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\Platforms\AkPlatform_Windows\AkWindowsInitializationSettings.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\InitializationSettings/AkInitializationSettings.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkInitializationSettings.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkWindowsInitializationSettings.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGameplayTypes.generated.h
+D:\UE_4.26\Engine\Source\Runtime\CoreUObject/Public/UObject/StrongObjectPtr.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/StreamableManager.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkEnvironmentIndex.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Math/GenericOctree.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Math\GenericOctreePublic.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Math\GenericOctree.inl
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAudioType.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioType.generated.h
+D:\UE_4.26\Engine\Source\Runtime\AssetRegistry/Public/AssetRegistryModule.h
+D:\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/AssetRegistryModule.h
+D:\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\AssetRegistry/IAssetRegistry.h
+D:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/AssetRegistryInterface.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetRegistry\IAssetRegistry.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAssetBase.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioBank.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkMediaAsset.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkMediaAsset.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkSettings.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkRtpc.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkRtpc.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSettings.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkSettingsPerUser.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Public\AkWaapiClient.h
+D:\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonWriter.h
+D:\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonTypes.h
+D:\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonSerializer.h
+D:\UE_4.26\Engine\Source\Runtime\Json\Public\Serialization/JsonReader.h
+D:\UE_4.26\Engine\Source\Runtime\Json\Public\Dom/JsonValue.h
+D:\UE_4.26\Engine\Source\Runtime\Json\Public\Dom/JsonObject.h
+D:\UE_4.26\Engine\Source\Runtime\Json\Public\JsonGlobals.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\ThirdParty\include\AK/WwiseAuthoringAPI/waapi.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSettingsPerUser.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkUnrealHelper.h
+D:\UE_4.26\Engine\Source\Editor/UnrealEd/Public/ObjectTools.h
+D:\UE_4.26\Engine\Source\Developer\CollectionManager\Public\CollectionManagerTypes.h
+D:\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlState.h
+D:\UE_4.26\Engine\Source\Editor\MainFrame/Public/Interfaces/IMainFrameModule.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ScopedSlowTask.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\ToolBehavior/AkToolBehavior.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement/AkSoundDataBuilder.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwiseProject/WwiseProjectInfo.h
+D:\UE_4.26\Engine\Source\Runtime\XmlParser\Public\FastXml.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement/AkAssetDatabase.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\WwiseItemType.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\WwiseItemType.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\UI/SClearSoundData.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AkMatineeImportTools.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AkMatineeImportTools.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioRTPCSection.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSection.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneFwd.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequenceID.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceID.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\KeyParams.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieScene.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnable.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSpawnable.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneBinding.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBinding.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieScenePossessable.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScenePossessable.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSignedObject.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSignedObject.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneObjectBindingID.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneObjectBindingID.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneFrameMigration.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFrameMigration.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTimeController.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieScene.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendType.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneBlendType.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneCompletionMode.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneCompletionMode.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingFunction.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingFunction.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationCustomVersion.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityBuilder.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityIDs.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTypes.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityManager.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/InlineValue.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePlayback.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceTransform.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/AllOf.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeTransform.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeTransform.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\MovieSceneTimeWarping.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTimeWarping.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceTransform.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactoryTypes.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeHandler.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentTypeInfo.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentDebug.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentPtr.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/AnyOf.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/NoneOf.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Algo/Common.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentRegistry.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityFactory.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityRange.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemTask.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/EntityAllocationIterator.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneComponentAccessors.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSystemTaskDependencies.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSequenceInstanceHandle.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemDirectedGraph.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/GeneratedTypeName.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSection.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneFloatChannelSerializationHelper.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneFloatChannel.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannel.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannel.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelData.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneChannelData.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelTraits.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels\MovieSceneChannelEditorData.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneCommonHelpers.h
+D:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\UObject/WeakFieldPtr.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplateInstance.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneRootOverridePath.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneCompiledDataID.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntitySystemRunner.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneSequenceInstance.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/MovieSceneEntityLedger.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationField.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationKey.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackIdentifier.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/EditorObjectVersion.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackIdentifier.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationKey.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSegment.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\UObject/SequencerObjectVersion.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSegment.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTree.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationField.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\EntitySystem/IMovieSceneEntityProvider.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\IMovieSceneEntityProvider.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplateInstance.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneFloatChannel.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\MovieSceneFloatChannelSerializationHelper.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\MovieSceneAkAudioRTPCSection.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Editor/UnrealEdEngine.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\IPackageAutoSaver.h
+D:\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlProvider.h
+D:\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlOperation.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\IDDCNotifications.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\ComponentVisualizer.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ComponentVisualizer.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\ComponentVisualizerManager.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UnrealEdEngine.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\UnrealEdGlobals.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackAkAudioRTPC.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackFloatBase.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrack.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Public\Interpolation.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpTrack.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpTrackFloatBase.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\InterpTrackAkAudioRTPC.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\InterpTrackAkAudioEvent.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackVectorBase.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpTrackVectorBase.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\InterpTrackAkAudioEvent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioRTPCTrack.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkTrack.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrack.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneSegmentCompiler.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneTrackEvaluationField.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackEvaluationField.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrack.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\MovieSceneAkTrack.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAudioEvent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAudioEvent.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Compilation/IMovieSceneTrackTemplateProducer.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\IMovieSceneTrackTemplateProducer.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\MovieSceneAkAudioRTPCTrack.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioEventSection.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\WwiseEventTracking.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkComponent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkComponentOcclusionObstructionService.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkOcclusionObstructionService.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkGameObject.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGameObject.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkComponent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\MovieSceneAkAudioEventSection.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\MovieSceneAkAudioEventTrack.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\IMovieScenePlayer.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneAnimTypeID.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieScenePreAnimatedState.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneExecutionToken.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSpawnRegister.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\IMovieSceneObjectSpawner.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationState.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/PersistentEvaluationData.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationOperand.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationOperand.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneSequenceInstanceData.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequenceInstanceData.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/IMovieSceneMotionVectorSimulation.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Generators/MovieSceneEasingCurves.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEasingCurves.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\MovieSceneAkAudioEventTrack.generated.h
+D:\UE_4.26\Engine\Source\Editor\MovieSceneTools\Public\MatineeImportTools.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpTrackToggle.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpTrackToggle.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieSceneParticleSection.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneByteChannel.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneByteChannel.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieSceneParticleSection.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/AkAssetDatabase.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTexture.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAcousticTexture.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkFolder.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkFolder.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAuxBus.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAuxBus.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkGroupValue.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGroupValue.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkInitBank.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkInitBank.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkStateValue.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkStateValue.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkSwitchValue.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSwitchValue.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkTrigger.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkTrigger.generated.h
+D:\UE_4.26\Engine\Source\Developer\AssetTools/Public/AssetToolsModule.h
+D:\UE_4.26\Engine\Source\Developer\AssetTools\Public\IAssetTools.h
+D:\UE_4.26\Engine\Source\Developer\AssetTools\Public\AssetTypeCategories.h
+D:\UE_4.26\Engine\Source\Developer\AssetTools\Public\IAssetTypeActions.h
+D:\UE_4.26\Engine\Source\Developer/Merge/Public/Merge.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailManager.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ThumbnailRendering/ThumbnailRenderer.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailRenderer.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ThumbnailManager.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\AutomatedAssetImportData.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\AutomatedAssetImportData.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\AssetTools\IAssetTools.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Async/Async.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowser/Public/ContentBrowserModule.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserDelegates.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataLegacyBridge.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItemData.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataMenuContexts.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserItem.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserItem.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataMenuContexts.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataLegacyBridge.generated.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowser/Public/IContentBrowserSingleton.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/FeedbackContext.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/SlowTaskStack.h
+D:\UE_4.26\Engine\Source\Runtime\CoreUObject\Public\Misc/RedirectCollector.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement/WaapiAssetSynchronizer.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd/Public/PackageTools.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\PackageTools.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/AkAssetManagementManager.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement\AkAssetManagementManager.h
+D:\UE_4.26\Engine\Source\Developer\DirectoryWatcher/Public/IDirectoryWatcher.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwiseProject/WwiseWorkUnitParser.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAudioStyle.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/WwiseTreeItem.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/GameEngine.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/SViewport.h
+D:\UE_4.26\Engine\Source\Runtime/MovieSceneCapture/Public/MovieSceneCaptureHandle.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameEngine.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement/CreateAkAssetsVisitor.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwiseProject/WorkUnitXmlVisitor.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement\AssetMigrationVisitor.h
+D:\UE_4.26\Engine\Source\Developer\DirectoryWatcher/Public/DirectoryWatcherModule.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\DragAndDrop/AssetDragDropOp.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\DragAndDrop/DecoratedDragDropOp.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Framework/Notifications/NotificationManager.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/FileHelper.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Notifications/SNotificationList.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\WwisePicker/WwiseAssetDragDropOp.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/AkFolderSearchFilter.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement\AkFolderSearchFilter.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowser\Public\FrontendFilterBase.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowser\Public\ContentBrowserFrontEndFilterExtension.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowser\ContentBrowserFrontEndFilterExtension.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkFolderSearchFilter.generated.h
+D:\UE_4.26\Engine\Source\Editor\ContentBrowserData\Public\ContentBrowserDataFilter.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ContentBrowserData\ContentBrowserDataFilter.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/AkSoundDataBuilder.cpp
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Async/ParallelFor.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/Fork.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement\StaticPluginWriter.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd/Public/FileHelpers.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\FileHelpers.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/AssetMigrationVisitor.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/CookAkSoundDataTask.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement\CookAkSoundDataTask.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/CreateAkAssetsVisitor.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/GenerateSoundBanksCommandlet.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\AssetManagement/GenerateSoundBanksCommandlet.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Commandlets/Commandlet.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Commandlet.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\GenerateSoundBanksCommandlet.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Factories/AkAssetFactories.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkAssetFactories.generated.h
+D:\UE_4.26\Engine\Source\Developer\SourceControl/Public/ISourceControlModule.h
+D:\UE_4.26\Engine\Source\Developer\SourceControl/Public/SourceControlHelpers.h
+D:\UE_4.26\Engine\Source\Developer\SourceControl\Public\ISourceControlRevision.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SourceControl\SourceControlHelpers.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement\WwiseConsoleAkSoundDataBuilder.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Public\ShaderCompiler.h
+D:\UE_4.26\Engine\Source\Runtime\RenderCore\Public\ShaderCompilerCore.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/SanitizeWwiseObjectPathCommandlet.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\AssetManagement/SanitizeWwiseObjectPathCommandlet.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\SanitizeWwiseObjectPathCommandlet.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/StaticPluginWriter.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\Platforms/AkPlatformInfo.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkPlatformInfo.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/WaapiAkSoundDataBuilder.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AssetManagement\WaapiAkSoundDataBuilder.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkWaapiUtils.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwiseProject/WwiseSoundBankInfoCache.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\ISoundBankInfoCache.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/WaapiAssetSynchronizer.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AssetManagement/WwiseConsoleAkSoundDataBuilder.cpp
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ScopeExit.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/AudiokineticToolsModule.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AudiokineticToolsPrivatePCH.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Public\IAudiokineticTools.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticPortal.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\GameFramework/Volume.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Volume.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\OcclusionObstructionService/AkPortalOcclusionObstructionService.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAcousticPortal.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\AkEventAssetBroker.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\ComponentAssetBroker.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkGeometryComponent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAcousticTextureSetComponent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAcousticTextureSetComponent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkGeometryData.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGeometryData.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkGeometryComponent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkLateReverbComponent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkReverbDescriptor.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkReverbDescriptor.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/TextRenderComponent.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\TextRenderComponent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkLateReverbComponent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkRoomComponent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkRoomComponent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkSurfaceReflectorSetComponent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSurfaceReflectorSetComponent.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\DetailsCustomization/AkGeometryComponentDetailsCustomization.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomization.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\DetailsCustomization/AkLateReverbComponentDetailsCustomization.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\DetailsCustomization/AkRoomComponentDetailsCustomization.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\DetailsCustomization/AkPortalComponentDetailsCustomization.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\DetailsCustomization/AkSurfaceReflectorSetDetailsCustomization.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\DetailsCustomization/AkSettingsDetailsCustomization.h
+D:\UE_4.26\Engine\Source\Editor/LevelEditor/Public/LevelEditor.h
+D:\UE_4.26\Engine\Source\Editor\LevelEditor\Public\ILevelEditor.h
+D:\UE_4.26\Engine\Source\Editor\LevelEditor\Public\ViewportTypeDefinition.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\Factories/ActorFactoryAkAmbientSound.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\ActorFactories/ActorFactory.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ActorFactory.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\ActorFactoryAkAmbientSound.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Factories/AkAssetTypeActions.h
+D:\UE_4.26\Engine\Source\Developer\AssetTools\Public\AssetTypeActions_Base.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Toolkits/AssetEditorManager.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Toolkits/SimpleAssetEditor.h
+D:\UE_4.26\Engine\Source\Runtime\Projects\Public\Interfaces/IProjectManager.h
+D:\UE_4.26\Engine\Source\Runtime\Projects\Public\ModuleDescriptor.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/Culture.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\ISequencerModule.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\ISequencer.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\KeyPropertyParams.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\PropertyPath.h
+D:\UE_4.26\Engine\Source\Editor/SequencerWidgets/Public/ITimeSlider.h
+D:\UE_4.26\Engine\Source\Editor/Sequencer/Public/ISequencerInputHandler.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\AnimatedPropertyKey.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\ISequencerChannelInterface.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelProxy.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelEditorDataEntry.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneChannelHandle.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\MovieSceneSequenceEditor.h
+D:\UE_4.26\Engine\Source\Developer\Settings\Public\ISettingsModule.h
+D:\UE_4.26\Engine\Source\Developer\Settings\Public\ISettingsSection.h
+D:\UE_4.26\Engine\Source\Editor\Matinee\Public\MatineeModule.h
+D:\UE_4.26\Engine\Source\Runtime\Projects\Public\ProjectDescriptor.h
+D:\UE_4.26\Engine\Source\Runtime\Projects\Public\CustomBuildSteps.h
+D:\UE_4.26\Engine\Source\Runtime\Projects\Public\PluginReferenceDescriptor.h
+D:\UE_4.26\Engine\Source\Runtime\Projects\Public\LocalizationDescriptor.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\Sequencer/InterpTrackAkAudioEventHelper.h
+D:\UE_4.26\Engine\Source\Editor\Matinee\Public\IMatinee.h
+D:\UE_4.26\Engine\Source\Editor\Matinee\Public\MatineeGroupData.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Matinee/InterpGroup.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\InterpGroup.generated.h
+D:\UE_4.26\Engine\Source\Editor\Matinee\Public\MatineeTrackData.h
+D:\UE_4.26\Engine\Source\Editor\Matinee\Classes\InterpTrackHelper.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Matinee\InterpTrackHelper.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\InterpTrackAkAudioEventHelper.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\Sequencer/InterpTrackAkAudioRTPCHelper.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\InterpTrackAkAudioRTPCHelper.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Sequencer/MovieSceneAkAudioEventTrackEditor.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\MovieSceneTrackEditor.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\ISequencerTrackEditor.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\ISequencerSection.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\SequencerKeyParams.h
+D:\UE_4.26\Engine\Source\Runtime\MovieSceneTracks\Public\Sections/MovieScene3DTransformSection.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneKeyStruct.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneKeyStructHelper.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneKeyStruct.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\TransformData.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieSceneTracks\MovieScene3DTransformSection.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\MovieSceneSequence.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneSequence.generated.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Sequencer/MovieSceneAkAudioRTPCTrackEditor.h
+D:\UE_4.26\Engine\Source\Editor\MovieSceneTools\Public\KeyframeTrackEditor.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplate.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvalTemplateBase.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplateBase.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneExecutionTokens.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationScope.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingAccumulator.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableToken.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuatorID.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneBlendingActuator.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/BlendableTokenStack.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneInitialValueStore.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/Blending/MovieSceneAccumulatedBlendState.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation\Blending\MovieSceneBlendingAccumulator.inl
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Compilation/MovieSceneTemplateInterrogation.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvalTemplate.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluation.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneTrackImplementation.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneTrackImplementation.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTemplate.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Evaluation/MovieSceneEvaluationTrack.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTrack.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneEvaluationTemplate.generated.h
+D:\UE_4.26\Engine\Source\Runtime\MovieScene\Public\Channels/MovieSceneIntegerChannel.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\MovieScene\MovieSceneIntegerChannel.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Settings/ProjectPackagingSettings.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ProjectPackagingSettings.generated.h
+D:\UE_4.26\Engine\Source\Developer\SettingsEditor/Public/ISettingsEditorModule.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd/Public/EditorBuildUtils.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Visualizer/AkAcousticPortalVisualizer.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Visualizer/AkComponentVisualizer.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Visualizer/AkSurfaceReflectorSetComponentVisualizer.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\WaapiPicker/SWaapiPicker.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilter.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilterExpressionEvaluator.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/ExpressionParser.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/TextFilterUtils.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSearchBox.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SHyperlink.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Accessibility/SlateAccessibleWidgets.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SExpandableArea.h
+D:\UE_4.26\Engine\Source\Editor\WorkspaceMenuStructure\Public\WorkspaceMenuStructure.h
+D:\UE_4.26\Engine\Source\Editor\WorkspaceMenuStructure\Public\WorkspaceMenuStructureModule.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwisePicker/SWwisePicker.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwiseProject/AcousticTextureParamLookup.h
+D:\UE_4.26\Engine\Source\Developer/ToolMenus/Public/ToolMenu.h
+D:\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuOwner.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuOwner.generated.h
+D:\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuDelegates.h
+D:\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuMisc.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuMisc.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuDelegates.generated.h
+D:\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuSection.h
+D:\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntry.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntry.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuSection.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Framework/MultiBox/ToolMenuBase.h
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Misc/BlacklistNames.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Slate\ToolMenuBase.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenu.generated.h
+D:\UE_4.26\Engine\Source\Developer/ToolMenus/Public/ToolMenus.h
+D:\UE_4.26\Engine\Source\Developer\ToolMenus\Public\IToolMenusModule.h
+D:\UE_4.26\Engine\Source\Developer\ToolMenus\Public\ToolMenuEntryScript.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenuEntryScript.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\ToolMenus\ToolMenus.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/DetailsCustomization/AkGeometryComponentDetailsCustomization.cpp
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\DetailLayoutBuilder.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\IDetailPropertyRow.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\DetailCategoryBuilder.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\IDetailCustomNodeBuilder.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\DetailBuilderTypes.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/DetailsCustomization/AkLateReverbComponentDetailsCustomization.cpp
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\IPropertyUtilities.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/DetailsCustomization/AkPortalComponentDetailsCustomization.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/DetailsCustomization/AkRoomComponentDetailsCustomization.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/DetailsCustomization/AkSettingsDetailsCustomization.cpp
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\DetailWidgetRow.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\IStructureDetailsView.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SNumericEntryBox.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSpinBox.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cstdio
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Colors/SColorBlock.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/DetailsCustomization/AkSurfaceReflectorSetDetailsCustomization.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\UI/SAcousticSurfacesController.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorModeManager.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SWidgetSwitcher.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EdMode.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorModeRegistry.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Tools/UEdMode.h
+D:\UE_4.26\Engine\Source\Runtime\Experimental\InteractiveToolsFramework\Public\InputState.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\InteractiveToolsFramework\InputState.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\UEdMode.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Public\EditorSupportDelegates.h
+D:\UE_4.26\Engine\Source\Editor\LevelEditor\Public\LevelEditorActions.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\TexAligner/TexAligner.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TexAligner.generated.h
+D:\UE_4.26\Engine\Source\Editor\LevelEditor\Public\LightmapResRatioAdjust.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/ConeBuilder.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/EditorBrushBuilder.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/BrushBuilder.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BrushBuilder.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\EditorBrushBuilder.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\ConeBuilder.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/CubeBuilder.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\CubeBuilder.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/CurvedStairBuilder.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\CurvedStairBuilder.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/CylinderBuilder.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\CylinderBuilder.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/LinearStairBuilder.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\LinearStairBuilder.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/SpiralStairBuilder.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\SpiralStairBuilder.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Builders/TetrahedronBuilder.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TetrahedronBuilder.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Factories/ActorFactoryAkAmbientSound.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkAmbientSound.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkAmbientSound.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Factories/AkAssetFactories.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Factories/AkAssetTypeActions.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\UI/SAkAudioBankPicker.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Factories/AkJsonFactory.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\Factories/AkJsonFactory.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AudiokineticTools\AkJsonFactory.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Sequencer/InterpTrackAkAudioEventHelper.cpp
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorModeInterpolation.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorModeTools.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\EditorModes.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Selection.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Selection.generated.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\PropertyCustomizationHelpers.h
+D:\UE_4.26\Engine\Source\Editor\PropertyEditor\Public\SResetToDefaultMenu.h
+D:\UE_4.26\Engine\Source\Editor\ActorPickerMode\Public\ActorPickerMode.h
+D:\UE_4.26\Engine\Source\Editor\SceneDepthPickerMode\Public\SceneDepthPickerMode.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\Sequencer\SMatineeAkEventKeyFrameAdder.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Sequencer/InterpTrackAkAudioRTPCHelper.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Sequencer/MovieSceneAkAudioEventTrackEditor.cpp
+D:\UE_4.26\Engine\Source\Editor\MovieSceneTools\Public\CommonMovieSceneTools.h
+D:\UE_4.26\Engine\Source\Runtime\AssetRegistry\Public\IAssetRegistry.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\SequencerSectionPainter.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\SequencerUtilities.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Public\Slate/SlateTextures.h
+D:\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Textures/SlateUpdatableTexture.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Sequencer/MovieSceneAkAudioRTPCTrackEditor.cpp
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\ISequencerObjectChangeListener.h
+D:\UE_4.26\Engine\Source\Editor\Sequencer\Public\ISectionLayoutBuilder.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SUniformGridPanel.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Sequencer/SMatineeAkEventKeyFrameAdder.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/ToolBehavior/AkEventBasedToolBehavior.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\ToolBehavior\AkEventBasedToolBehavior.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\UI/SGenerateSoundBanks.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/ToolBehavior/AkLegacyToolBehavior.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\ToolBehavior\AkLegacyToolBehavior.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\UI/SLegacyGenerateSoundBanks.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/ToolBehavior/AkToolBehavior.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/UI/SAcousticSurfacesController.cpp
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Classes\Editor/TransBuffer.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\UnrealEd\TransBuffer.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Input/SSlider.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/UI/SAkAudioBankPicker.cpp
+D:\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Styling/SlateIconFinder.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/UI/SClearSoundData.cpp
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\Dialogs/Dialogs.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/UI/SGenerateSoundBanks.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/UI/SLegacyGenerateSoundBanks.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Visualizer/AkAcousticPortalVisualizer.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkSpatialAudioDrawUtils.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkDrawPortalComponent.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkDrawPortalComponent.generated.h
+D:\UE_4.26\Engine\Source\Editor\EditorStyle\Public\Classes/EditorStyleSettings.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\EditorStyle\EditorStyleSettings.generated.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Visualizer/AkComponentVisualizer.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/Visualizer/AkSurfaceReflectorSetComponentVisualizer.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AkAudio\Classes\AkSpatialAudioVolume.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Intermediate\Build\Win64\UE4Editor\Inc\AkAudio\AkSpatialAudioVolume.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Components/BrushComponent.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\BrushComponent.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Polys.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Polys.generated.h
+D:\UE_4.26\Engine\Source\Editor\UnrealEd\Public\LevelEditorViewport.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Camera/CameraComponent.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Canvas.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Public\CanvasItem.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/Font.h
+D:\UE_4.26\Engine\Source\Runtime\Engine\Classes\Engine/FontImportOptions.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\FontImportOptions.generated.h
+D:\UE_4.26\Engine\Source\Runtime\SlateCore\Public\Fonts/FontProviderInterface.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\SlateCore\FontProviderInterface.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Font.generated.h
+D:\UE_4.26\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\Canvas.generated.h
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.27.29110\INCLUDE\cmath
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwisePicker/SWwisePicker.cpp
+D:\UE_4.26\Engine\Source\Runtime\Slate\Public\Widgets/Layout/SSeparator.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Classes\WwisePicker/WwiseEventDragDropOp.h
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwisePicker\WwisePickerBuilderVisitor.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwisePicker/WwiseAssetDragDropOp.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwisePicker/WwiseEventDragDropOp.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwisePicker/WwisePickerBuilderVisitor.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwiseProject/AcousticTextureParamLookup.cpp
+D:\UE_4.26\Engine\Source\Runtime\XmlParser\Public\XmlNode.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwiseProject/WwiseProjectInfo.cpp
+D:\UE_4.26\Engine\Source\Runtime\XmlParser\Public\XmlFile.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwiseProject/WwiseProjectParser.cpp
+C:\Projects\ProjectMojo\Mojo\Plugins\Wwise\Source\AudiokineticTools\Private\WwiseProject\WwiseProjectParser.h
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwiseProject/WwiseSoundBankInfoCache.cpp
+C:/Projects/ProjectMojo/Mojo/Plugins/Wwise/Source/AudiokineticTools/Private/WwiseProject/WwiseWorkUnitParser.cpp
+D:\UE_4.26\Engine\Source\Runtime\Core\Public\Internationalization/Regex.h
