@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{1E02E7C0-1402-4F71-8CE4-2BA2E0AE69EA}" SchemaVersion="103">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{1E02E7C0-1402-4F71-8CE4-2BA2E0AE69EA}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{A1BC57D3-58FD-46E8-B2D7-27E3D5EC08BC}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Default Work Unit" ID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Default Work Unit" ID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CrabGod" ID="{B5547F40-32FB-470A-8CA1-691FB4A7360E}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="CrabGod" ID="{118D435F-AE3E-4751-A709-069E11DC22F7}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>
