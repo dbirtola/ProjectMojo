@@ -1,0 +1,6 @@
+Event	ID	Name			Wwise Object Path	Notes
+	2205857971	CrabGod			\Default Work Unit\CrabGod	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	702216684	CrabGod	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Eminem - Crab God (Full Version)_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\CrabGod		2313670
+
