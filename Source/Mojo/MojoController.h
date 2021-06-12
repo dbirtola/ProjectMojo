@@ -14,7 +14,7 @@ UENUM(BlueprintType, meta = (Bitflags, UseEnumValuesAsMaskValuesInEditor = "true
 enum class EInputDirection : uint8
 {
 	//A 0 entry required for compilation as an enum needs an explicit default value 
-	None = 0,
+	None = 0 UMETA(Hidden),
     Forward = 1 << 0,
     Right = 1 << 1,
 	Down = 1 << 2,
@@ -28,5 +28,6 @@ class MOJO_API AMojoController : public APlayerController
 	GENERATED_BODY()
 
 	protected:
-	EInputDirection InputDirection;
+	UPROPERTY(EditAnywhere, BlueprintReadWrite, Category="Input", meta = (Bitmask, BitmaskEnum = "EInputDirection"))
+	uint8 InputDirection = static_cast<uint8>(EInputDirection::None);
 };
