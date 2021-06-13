@@ -1,6 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{B0649907-89BE-4D17-BF14-9E7A051C67AB}" SchemaVersion="103">
 	<SoundcasterSessions>
-		<WorkUnit Name="Default Work Unit" ID="{B0649907-89BE-4D17-BF14-9E7A051C67AB}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{B0649907-89BE-4D17-BF14-9E7A051C67AB}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundcasterSession Name="New Soundcaster Session" ID="{17F5637F-2916-4E08-8E9D-E4FA1790B555}">
+					<ModuleList>
+						<Module>
+							<ObjectRef Name="OceanAmbient" ID="{1140B88F-C294-4A14-AF71-2AA5AC315EAD}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}"/>
+							<Position X="0" Y="0"/>
+						</Module>
+						<Module>
+							<ObjectRef Name="StartMusic" ID="{E823A583-8830-458C-85D5-042F799C6959}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}"/>
+							<Position X="1" Y="0"/>
+						</Module>
+					</ModuleList>
+					<RTPCValueList ShowAll="true"/>
+					<CurrentStateList ShowAll="true"/>
+					<CurrentSwitchList ShowAll="true">
+						<CurrentSwitchRef Name="High" ID="{B591A361-B824-4BC2-86B2-F58E42D68BF7}"/>
+						<CurrentSwitchRef Name="Ambient" ID="{A15A3976-BA57-4FA4-8101-3A1FFC600014}"/>
+					</CurrentSwitchList>
+				</SoundcasterSession>
+			</ChildrenList>
+		</WorkUnit>
 	</SoundcasterSessions>
 </WwiseDocument>
