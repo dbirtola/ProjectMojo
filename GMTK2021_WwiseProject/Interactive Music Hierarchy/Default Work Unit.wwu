@@ -20,7 +20,7 @@
 								<Property Name="TimeSignatureUpper" Type="int16" Value="6"/>
 								<Property Name="Volume" Type="Real64">
 									<ValueList>
-										<Value>-3</Value>
+										<Value>-5</Value>
 									</ValueList>
 								</Property>
 							</PropertyList>

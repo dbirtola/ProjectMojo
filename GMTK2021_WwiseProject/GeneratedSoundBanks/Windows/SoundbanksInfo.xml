@@ -16,11 +16,21 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3161908922" Language="SFX" Hash="1968549503">
+		<SoundBank Id="3161908922" Language="SFX" Hash="2665814990">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
+				<Event Id="3271000576" Name="BigSplash" ObjectPath="\Events\Default Work Unit\BigSplash"/>
+				<Event Id="383555462" Name="CrewJoin" ObjectPath="\Events\Default Work Unit\CrewJoin"/>
+				<Event Id="1808802620" Name="DamageBark" ObjectPath="\Events\Default Work Unit\DamageBark"/>
+				<Event Id="2272071981" Name="EnemyDefeated" ObjectPath="\Events\Default Work Unit\EnemyDefeated"/>
+				<Event Id="3938259894" Name="EnemySpotted" ObjectPath="\Events\Default Work Unit\EnemySpotted"/>
+				<Event Id="3041341681" Name="MoneyBark" ObjectPath="\Events\Default Work Unit\MoneyBark"/>
+				<Event Id="4285174007" Name="OceanAmbient" ObjectPath="\Events\Default Work Unit\OceanAmbient"/>
+				<Event Id="155307164" Name="PaddleSmack" ObjectPath="\Events\Default Work Unit\PaddleSmack"/>
+				<Event Id="4070126011" Name="PirateNoises" ObjectPath="\Events\Default Work Unit\PirateNoises"/>
+				<Event Id="1081269279" Name="Row" ObjectPath="\Events\Default Work Unit\Row"/>
 				<Event Id="3827058668" Name="StartMusic" ObjectPath="\Events\Default Work Unit\StartMusic">
 					<IncludedMemoryFiles>
 						<File Id="32827929" Language="SFX">
@@ -198,15 +208,48 @@
 					</SwitchContainers>
 				</Event>
 				<Event Id="1917263390" Name="StopMusic" ObjectPath="\Events\Default Work Unit\StopMusic"/>
+				<Event Id="1991336629" Name="Wake" ObjectPath="\Events\Default Work Unit\Wake"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
+				<File Id="5439432" Language="SFX">
+					<ShortName>Money2.wav</ShortName>
+					<Path>SFX\Money2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="7316151" Language="SFX">
+					<ShortName>Damage Bark 5.wav</ShortName>
+					<Path>SFX\Damage Bark 5_64D0E4B9.wem</Path>
+				</File>
+				<File Id="10129542" Language="SFX">
+					<ShortName>Yarr4.wav</ShortName>
+					<Path>SFX\Yarr4_64D0E4B9.wem</Path>
+				</File>
 				<File Id="32827929" Language="SFX">
 					<ShortName>Battle-Perc-3-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Perc-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
 				</File>
+				<File Id="87803640" Language="SFX">
+					<ShortName>Damage Bark 3.wav</ShortName>
+					<Path>SFX\Damage Bark 3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="109948011" Language="SFX">
+					<ShortName>Money3.wav</ShortName>
+					<Path>SFX\Money3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="118482147" Language="SFX">
+					<ShortName>Wake1.wav</ShortName>
+					<Path>SFX\Wake1_64D0E4B9.wem</Path>
+				</File>
 				<File Id="136682939" Language="SFX">
 					<ShortName>Battle-Flute-2-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Flute-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="138861754" Language="SFX">
+					<ShortName>Damage Bark 1.wav</ShortName>
+					<Path>SFX\Damage Bark 1_64D0E4B9.wem</Path>
+				</File>
+				<File Id="140253839" Language="SFX">
+					<ShortName>Money1.wav</ShortName>
+					<Path>SFX\Money1_64D0E4B9.wem</Path>
 				</File>
 				<File Id="172943254" Language="SFX">
 					<ShortName>Battle-Accord-2-120bpm_6-8_4m-1P.wav</ShortName>
@@ -228,29 +271,121 @@
 					<ShortName>Battle-Drum-2-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Drum-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
 				</File>
+				<File Id="302783331" Language="SFX">
+					<ShortName>arghh3.wav</ShortName>
+					<Path>SFX\arghh3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="312374485" Language="SFX">
+					<ShortName>Money4.wav</ShortName>
+					<Path>SFX\Money4_64D0E4B9.wem</Path>
+				</File>
 				<File Id="330154979" Language="SFX">
 					<ShortName>Amb_Tam-2-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Tam-2-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="351485201" Language="SFX">
+					<ShortName>Crack1.wav</ShortName>
+					<Path>SFX\Crack1_64D0E4B9.wem</Path>
+				</File>
+				<File Id="375021392" Language="SFX">
+					<ShortName>Row5.wav</ShortName>
+					<Path>SFX\Row5_64D0E4B9.wem</Path>
 				</File>
 				<File Id="384534134" Language="SFX">
 					<ShortName>Amb_Strings-3-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Strings-3-120bpm_6-8_2E_D499A687.wem</Path>
 				</File>
+				<File Id="407688249" Language="SFX">
+					<ShortName>Damage Bark 7.wav</ShortName>
+					<Path>SFX\Damage Bark 7_64D0E4B9.wem</Path>
+				</File>
+				<File Id="414580747" Language="SFX">
+					<ShortName>Row2.wav</ShortName>
+					<Path>SFX\Row2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="435793688" Language="SFX">
+					<ShortName>arghh2.wav</ShortName>
+					<Path>SFX\arghh2_64D0E4B9.wem</Path>
+				</File>
 				<File Id="447846822" Language="SFX">
 					<ShortName>Amb_Drum-2-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Drum-2-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="472181904" Language="SFX">
+					<ShortName>Big_Splash1.wav</ShortName>
+					<Path>SFX\Big_Splash1_64D0E4B9.wem</Path>
+				</File>
+				<File Id="499422995" Language="SFX">
+					<ShortName>Thump3.wav</ShortName>
+					<Path>SFX\Thump3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="523680250" Language="SFX">
+					<ShortName>Ocean_Noises.wav</ShortName>
+					<Path>SFX\Ocean_Noises_D499A687.wem</Path>
+				</File>
+				<File Id="530662548" Language="SFX">
+					<ShortName>DefeatEnemy6.wav</ShortName>
+					<Path>SFX\DefeatEnemy6_64D0E4B9.wem</Path>
+				</File>
+				<File Id="543625551" Language="SFX">
+					<ShortName>Yarr2.wav</ShortName>
+					<Path>SFX\Yarr2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="554714832" Language="SFX">
+					<ShortName>Enemy Spotted Bark 3.wav</ShortName>
+					<Path>SFX\Enemy Spotted Bark 3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="560007929" Language="SFX">
+					<ShortName>Yarr3.wav</ShortName>
+					<Path>SFX\Yarr3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="567832308" Language="SFX">
+					<ShortName>Damage Bark 2.wav</ShortName>
+					<Path>SFX\Damage Bark 2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="581843496" Language="SFX">
+					<ShortName>Damage Bark 8.wav</ShortName>
+					<Path>SFX\Damage Bark 8_64D0E4B9.wem</Path>
 				</File>
 				<File Id="597247365" Language="SFX">
 					<ShortName>Amb_Strings-2-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Strings-2-120bpm_6-8_2E_D499A687.wem</Path>
 				</File>
+				<File Id="598001137" Language="SFX">
+					<ShortName>Thump4.wav</ShortName>
+					<Path>SFX\Thump4_64D0E4B9.wem</Path>
+				</File>
+				<File Id="622334513" Language="SFX">
+					<ShortName>Wake3.wav</ShortName>
+					<Path>SFX\Wake3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="627774719" Language="SFX">
+					<ShortName>Big_Splash3.wav</ShortName>
+					<Path>SFX\Big_Splash3_64D0E4B9.wem</Path>
+				</File>
 				<File Id="632064950" Language="SFX">
 					<ShortName>Battle-Accord-1-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Accord-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
 				</File>
+				<File Id="635722764" Language="SFX">
+					<ShortName>Row4.wav</ShortName>
+					<Path>SFX\Row4_64D0E4B9.wem</Path>
+				</File>
+				<File Id="642288222" Language="SFX">
+					<ShortName>arghh1.wav</ShortName>
+					<Path>SFX\arghh1_64D0E4B9.wem</Path>
+				</File>
+				<File Id="646956708" Language="SFX">
+					<ShortName>Damage Bark 4.wav</ShortName>
+					<Path>SFX\Damage Bark 4_64D0E4B9.wem</Path>
+				</File>
 				<File Id="651729511" Language="SFX">
 					<ShortName>Battle-Drum-3-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Drum-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="653681096" Language="SFX">
+					<ShortName>Row3.wav</ShortName>
+					<Path>SFX\Row3_64D0E4B9.wem</Path>
 				</File>
 				<File Id="657473456" Language="SFX">
 					<ShortName>Battle-Perc-2-120bpm_6-8_4m-1P.wav</ShortName>
@@ -260,25 +395,77 @@
 					<ShortName>Battle-Perc-1-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Perc-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
 				</File>
+				<File Id="675923121" Language="SFX">
+					<ShortName>DefeatEnemy5.wav</ShortName>
+					<Path>SFX\DefeatEnemy5_64D0E4B9.wem</Path>
+				</File>
+				<File Id="743469211" Language="SFX">
+					<ShortName>DefeatEnemy1.wav</ShortName>
+					<Path>SFX\DefeatEnemy1_64D0E4B9.wem</Path>
+				</File>
 				<File Id="760510657" Language="SFX">
 					<ShortName>Battle-Tam-3-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Tam-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="761595500" Language="SFX">
+					<ShortName>Enemy Spotted Bark 4.wav</ShortName>
+					<Path>SFX\Enemy Spotted Bark 4_64D0E4B9.wem</Path>
 				</File>
 				<File Id="762714407" Language="SFX">
 					<ShortName>TransitionToAmbiant.wav</ShortName>
 					<Path>SFX\TransitionToAmbiant_D499A687.wem</Path>
 				</File>
+				<File Id="766101947" Language="SFX">
+					<ShortName>Yarr5.wav</ShortName>
+					<Path>SFX\Yarr5_64D0E4B9.wem</Path>
+				</File>
+				<File Id="783586812" Language="SFX">
+					<ShortName>Damage Bark 6.wav</ShortName>
+					<Path>SFX\Damage Bark 6_64D0E4B9.wem</Path>
+				</File>
+				<File Id="786733152" Language="SFX">
+					<ShortName>Big_Splash2.wav</ShortName>
+					<Path>SFX\Big_Splash2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="793760025" Language="SFX">
+					<ShortName>Yarr1.wav</ShortName>
+					<Path>SFX\Yarr1_64D0E4B9.wem</Path>
+				</File>
 				<File Id="798427293" Language="SFX">
 					<ShortName>Amb_Tam-1-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Tam-1-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="799670316" Language="SFX">
+					<ShortName>DefeatEnemy3.wav</ShortName>
+					<Path>SFX\DefeatEnemy3_64D0E4B9.wem</Path>
+				</File>
+				<File Id="813275575" Language="SFX">
+					<ShortName>Enemy Spotted Bark 5.wav</ShortName>
+					<Path>SFX\Enemy Spotted Bark 5_64D0E4B9.wem</Path>
+				</File>
+				<File Id="817700317" Language="SFX">
+					<ShortName>Wake2.wav</ShortName>
+					<Path>SFX\Wake2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="827193719" Language="SFX">
+					<ShortName>DefeatEnemy4.wav</ShortName>
+					<Path>SFX\DefeatEnemy4_64D0E4B9.wem</Path>
 				</File>
 				<File Id="830779620" Language="SFX">
 					<ShortName>Amb_Strings-1-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Strings-1-120bpm_6-8_2E_D499A687.wem</Path>
 				</File>
+				<File Id="870136923" Language="SFX">
+					<ShortName>Crack3.wav</ShortName>
+					<Path>SFX\Crack3_64D0E4B9.wem</Path>
+				</File>
 				<File Id="875431385" Language="SFX">
 					<ShortName>Amb_Drum-3-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Drum-3-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="879714199" Language="SFX">
+					<ShortName>Money6.wav</ShortName>
+					<Path>SFX\Money6_64D0E4B9.wem</Path>
 				</File>
 				<File Id="888214737" Language="SFX">
 					<ShortName>Battle-String-2-120bpm_6-8_4m-1P.wav</ShortName>
@@ -288,6 +475,14 @@
 					<ShortName>Amb_Tam-3-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Tam-3-120bpm_6-8_2E_D499A687.wem</Path>
 				</File>
+				<File Id="913226261" Language="SFX">
+					<ShortName>Row1.wav</ShortName>
+					<Path>SFX\Row1_64D0E4B9.wem</Path>
+				</File>
+				<File Id="927214286" Language="SFX">
+					<ShortName>Enemy Spotted Bark 1.wav</ShortName>
+					<Path>SFX\Enemy Spotted Bark 1_64D0E4B9.wem</Path>
+				</File>
 				<File Id="939016445" Language="SFX">
 					<ShortName>Battle-Flute-1-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Flute-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
@@ -296,13 +491,41 @@
 					<ShortName>Battle-String-1-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-String-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
 				</File>
+				<File Id="957618380" Language="SFX">
+					<ShortName>DefeatEnemy7.wav</ShortName>
+					<Path>SFX\DefeatEnemy7_64D0E4B9.wem</Path>
+				</File>
 				<File Id="957780504" Language="SFX">
 					<ShortName>Battle-Tam-1-120bpm_6-8_4m-1P.wav</ShortName>
 					<Path>SFX\Battle-Tam-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
 				</File>
+				<File Id="961101288" Language="SFX">
+					<ShortName>Thump2.wav</ShortName>
+					<Path>SFX\Thump2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="969188665" Language="SFX">
+					<ShortName>Thump1.wav</ShortName>
+					<Path>SFX\Thump1_64D0E4B9.wem</Path>
+				</File>
+				<File Id="983729336" Language="SFX">
+					<ShortName>Enemy Spotted Bark 2.wav</ShortName>
+					<Path>SFX\Enemy Spotted Bark 2_64D0E4B9.wem</Path>
+				</File>
 				<File Id="985412649" Language="SFX">
 					<ShortName>Amb_Drum-1-120bpm_6-8_2E.wav</ShortName>
 					<Path>SFX\Amb_Drum-1-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="996755874" Language="SFX">
+					<ShortName>Money5.wav</ShortName>
+					<Path>SFX\Money5_64D0E4B9.wem</Path>
+				</File>
+				<File Id="997246294" Language="SFX">
+					<ShortName>DefeatEnemy2.wav</ShortName>
+					<Path>SFX\DefeatEnemy2_64D0E4B9.wem</Path>
+				</File>
+				<File Id="1067277082" Language="SFX">
+					<ShortName>pirates_joining_ship.wav</ShortName>
+					<Path>SFX\pirates_joining_ship_64D0E4B9.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
 			<SwitchGroups>
