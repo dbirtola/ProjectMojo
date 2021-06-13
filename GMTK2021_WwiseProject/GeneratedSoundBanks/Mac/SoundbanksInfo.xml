@@ -16,26 +16,310 @@
 			<ShortName>Init</ShortName>
 			<Path>Init.bnk</Path>
 		</SoundBank>
-		<SoundBank Id="3161908922" Language="SFX" Hash="161774773">
+		<SoundBank Id="3161908922" Language="SFX" Hash="1968549503">
 			<ObjectPath>\SoundBanks\Default Work Unit\Main</ObjectPath>
 			<ShortName>Main</ShortName>
 			<Path>Main.bnk</Path>
 			<IncludedEvents>
-				<Event Id="2205857971" Name="CrabGod" ObjectPath="\Events\Default Work Unit\CrabGod">
+				<Event Id="3827058668" Name="StartMusic" ObjectPath="\Events\Default Work Unit\StartMusic">
 					<IncludedMemoryFiles>
-						<File Id="702216684" Language="SFX">
-							<ShortName>Eminem - Crab God (Full Version).wav</ShortName>
-							<Path>SFX\Eminem - Crab God (Full Version)_64D0E4B9.wem</Path>
+						<File Id="32827929" Language="SFX">
+							<ShortName>Battle-Perc-3-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Perc-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="136682939" Language="SFX">
+							<ShortName>Battle-Flute-2-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Flute-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="172943254" Language="SFX">
+							<ShortName>Battle-Accord-2-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Accord-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="214202636" Language="SFX">
+							<ShortName>Battle-Drum-1-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Drum-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="238247643" Language="SFX">
+							<ShortName>Battle-String-3-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-String-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="286319657" Language="SFX">
+							<ShortName>Battle-Tam-2-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Tam-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="292983857" Language="SFX">
+							<ShortName>Battle-Drum-2-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Drum-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="330154979" Language="SFX">
+							<ShortName>Amb_Tam-2-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Tam-2-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="384534134" Language="SFX">
+							<ShortName>Amb_Strings-3-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Strings-3-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="447846822" Language="SFX">
+							<ShortName>Amb_Drum-2-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Drum-2-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="597247365" Language="SFX">
+							<ShortName>Amb_Strings-2-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Strings-2-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="632064950" Language="SFX">
+							<ShortName>Battle-Accord-1-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Accord-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="651729511" Language="SFX">
+							<ShortName>Battle-Drum-3-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Drum-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="657473456" Language="SFX">
+							<ShortName>Battle-Perc-2-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Perc-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="665791752" Language="SFX">
+							<ShortName>Battle-Perc-1-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Perc-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="760510657" Language="SFX">
+							<ShortName>Battle-Tam-3-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Tam-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="762714407" Language="SFX">
+							<ShortName>TransitionToAmbiant.wav</ShortName>
+							<Path>SFX\TransitionToAmbiant_D499A687.wem</Path>
+						</File>
+						<File Id="798427293" Language="SFX">
+							<ShortName>Amb_Tam-1-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Tam-1-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="830779620" Language="SFX">
+							<ShortName>Amb_Strings-1-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Strings-1-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="875431385" Language="SFX">
+							<ShortName>Amb_Drum-3-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Drum-3-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="888214737" Language="SFX">
+							<ShortName>Battle-String-2-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-String-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="898058674" Language="SFX">
+							<ShortName>Amb_Tam-3-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Tam-3-120bpm_6-8_2E_D499A687.wem</Path>
+						</File>
+						<File Id="939016445" Language="SFX">
+							<ShortName>Battle-Flute-1-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Flute-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="944438754" Language="SFX">
+							<ShortName>Battle-String-1-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-String-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="957780504" Language="SFX">
+							<ShortName>Battle-Tam-1-120bpm_6-8_4m-1P.wav</ShortName>
+							<Path>SFX\Battle-Tam-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+						</File>
+						<File Id="985412649" Language="SFX">
+							<ShortName>Amb_Drum-1-120bpm_6-8_2E.wav</ShortName>
+							<Path>SFX\Amb_Drum-1-120bpm_6-8_2E_D499A687.wem</Path>
 						</File>
 					</IncludedMemoryFiles>
+					<SwitchContainers>
+						<SwitchContainer SwitchValue="{A15A3976-BA57-4FA4-8101-3A1FFC600014}">
+							<Media>
+								<File Id="330154979"/>
+								<File Id="384534134"/>
+								<File Id="447846822"/>
+								<File Id="597247365"/>
+								<File Id="798427293"/>
+								<File Id="830779620"/>
+								<File Id="875431385"/>
+								<File Id="898058674"/>
+								<File Id="985412649"/>
+							</Media>
+						</SwitchContainer>
+						<SwitchContainer SwitchValue="{0791DCF0-3DD4-4F34-BC8E-F960DD79E563}">
+							<Children>
+								<SwitchContainer SwitchValue="{B591A361-B824-4BC2-86B2-F58E42D68BF7}">
+									<Media>
+										<File Id="32827929"/>
+										<File Id="136682939"/>
+										<File Id="172943254"/>
+										<File Id="214202636"/>
+										<File Id="238247643"/>
+										<File Id="286319657"/>
+										<File Id="292983857"/>
+										<File Id="632064950"/>
+										<File Id="651729511"/>
+										<File Id="657473456"/>
+										<File Id="665791752"/>
+										<File Id="760510657"/>
+										<File Id="888214737"/>
+										<File Id="939016445"/>
+										<File Id="944438754"/>
+										<File Id="957780504"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{E8A1E30D-CADA-469A-AEB9-56F25F15B324}">
+									<Media>
+										<File Id="32827929"/>
+										<File Id="136682939"/>
+										<File Id="286319657"/>
+										<File Id="657473456"/>
+										<File Id="665791752"/>
+										<File Id="760510657"/>
+										<File Id="939016445"/>
+										<File Id="957780504"/>
+									</Media>
+								</SwitchContainer>
+								<SwitchContainer SwitchValue="{C3AC76A8-B8B7-4721-819C-6A12A2D6B308}">
+									<Media>
+										<File Id="32827929"/>
+										<File Id="136682939"/>
+										<File Id="172943254"/>
+										<File Id="214202636"/>
+										<File Id="286319657"/>
+										<File Id="292983857"/>
+										<File Id="632064950"/>
+										<File Id="651729511"/>
+										<File Id="657473456"/>
+										<File Id="665791752"/>
+										<File Id="760510657"/>
+										<File Id="939016445"/>
+										<File Id="957780504"/>
+									</Media>
+								</SwitchContainer>
+							</Children>
+						</SwitchContainer>
+					</SwitchContainers>
 				</Event>
+				<Event Id="1917263390" Name="StopMusic" ObjectPath="\Events\Default Work Unit\StopMusic"/>
 			</IncludedEvents>
 			<IncludedMemoryFiles>
-				<File Id="702216684" Language="SFX">
-					<ShortName>Eminem - Crab God (Full Version).wav</ShortName>
-					<Path>SFX\Eminem - Crab God (Full Version)_64D0E4B9.wem</Path>
+				<File Id="32827929" Language="SFX">
+					<ShortName>Battle-Perc-3-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Perc-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="136682939" Language="SFX">
+					<ShortName>Battle-Flute-2-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Flute-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="172943254" Language="SFX">
+					<ShortName>Battle-Accord-2-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Accord-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="214202636" Language="SFX">
+					<ShortName>Battle-Drum-1-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Drum-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="238247643" Language="SFX">
+					<ShortName>Battle-String-3-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-String-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="286319657" Language="SFX">
+					<ShortName>Battle-Tam-2-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Tam-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="292983857" Language="SFX">
+					<ShortName>Battle-Drum-2-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Drum-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="330154979" Language="SFX">
+					<ShortName>Amb_Tam-2-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Tam-2-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="384534134" Language="SFX">
+					<ShortName>Amb_Strings-3-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Strings-3-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="447846822" Language="SFX">
+					<ShortName>Amb_Drum-2-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Drum-2-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="597247365" Language="SFX">
+					<ShortName>Amb_Strings-2-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Strings-2-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="632064950" Language="SFX">
+					<ShortName>Battle-Accord-1-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Accord-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="651729511" Language="SFX">
+					<ShortName>Battle-Drum-3-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Drum-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="657473456" Language="SFX">
+					<ShortName>Battle-Perc-2-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Perc-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="665791752" Language="SFX">
+					<ShortName>Battle-Perc-1-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Perc-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="760510657" Language="SFX">
+					<ShortName>Battle-Tam-3-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Tam-3-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="762714407" Language="SFX">
+					<ShortName>TransitionToAmbiant.wav</ShortName>
+					<Path>SFX\TransitionToAmbiant_D499A687.wem</Path>
+				</File>
+				<File Id="798427293" Language="SFX">
+					<ShortName>Amb_Tam-1-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Tam-1-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="830779620" Language="SFX">
+					<ShortName>Amb_Strings-1-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Strings-1-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="875431385" Language="SFX">
+					<ShortName>Amb_Drum-3-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Drum-3-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="888214737" Language="SFX">
+					<ShortName>Battle-String-2-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-String-2-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="898058674" Language="SFX">
+					<ShortName>Amb_Tam-3-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Tam-3-120bpm_6-8_2E_D499A687.wem</Path>
+				</File>
+				<File Id="939016445" Language="SFX">
+					<ShortName>Battle-Flute-1-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Flute-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="944438754" Language="SFX">
+					<ShortName>Battle-String-1-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-String-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="957780504" Language="SFX">
+					<ShortName>Battle-Tam-1-120bpm_6-8_4m-1P.wav</ShortName>
+					<Path>SFX\Battle-Tam-1-120bpm_6-8_4m-1P_D499A687.wem</Path>
+				</File>
+				<File Id="985412649" Language="SFX">
+					<ShortName>Amb_Drum-1-120bpm_6-8_2E.wav</ShortName>
+					<Path>SFX\Amb_Drum-1-120bpm_6-8_2E_D499A687.wem</Path>
 				</File>
 			</IncludedMemoryFiles>
+			<SwitchGroups>
+				<SwitchGroup Id="2470328564" Name="Intensity" ObjectPath="\Switches\Default Work Unit\Intensity">
+					<Switches>
+						<Switch Id="545371365" Name="Low" ObjectPath="\Switches\Default Work Unit\Intensity\Low"/>
+						<Switch Id="981339021" Name="Med" ObjectPath="\Switches\Default Work Unit\Intensity\Med"/>
+						<Switch Id="3550808449" Name="High" ObjectPath="\Switches\Default Work Unit\Intensity\High"/>
+					</Switches>
+				</SwitchGroup>
+				<SwitchGroup Id="3991942870" Name="Music" ObjectPath="\Switches\Default Work Unit\Music">
+					<Switches>
+						<Switch Id="77978275" Name="Ambient" ObjectPath="\Switches\Default Work Unit\Music\Ambient"/>
+						<Switch Id="2937832959" Name="Battle" ObjectPath="\Switches\Default Work Unit\Music\Battle"/>
+					</Switches>
+				</SwitchGroup>
+			</SwitchGroups>
 		</SoundBank>
 	</SoundBanks>
 </SoundBanksInfo>
