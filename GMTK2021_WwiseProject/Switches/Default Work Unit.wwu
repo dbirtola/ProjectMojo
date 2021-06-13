@@ -1,6 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <WwiseDocument Type="WorkUnit" ID="{E4E49314-460F-42FA-BA5D-FC75FA2DB367}" SchemaVersion="103">
 	<Switches>
-		<WorkUnit Name="Default Work Unit" ID="{E4E49314-460F-42FA-BA5D-FC75FA2DB367}" PersistMode="Standalone"/>
+		<WorkUnit Name="Default Work Unit" ID="{E4E49314-460F-42FA-BA5D-FC75FA2DB367}" PersistMode="Standalone">
+			<ChildrenList>
+				<SwitchGroup Name="Music" ID="{31C7EA63-1F02-4F15-8094-73B80367AC77}">
+					<ChildrenList>
+						<Switch Name="Ambient" ID="{A15A3976-BA57-4FA4-8101-3A1FFC600014}"/>
+						<Switch Name="Battle" ID="{0791DCF0-3DD4-4F34-BC8E-F960DD79E563}"/>
+					</ChildrenList>
+				</SwitchGroup>
+				<SwitchGroup Name="Intensity" ID="{C0E306B4-03BA-48A3-A856-93153B149009}">
+					<ChildrenList>
+						<Switch Name="Low" ID="{E8A1E30D-CADA-469A-AEB9-56F25F15B324}"/>
+						<Switch Name="Med" ID="{C3AC76A8-B8B7-4721-819C-6A12A2D6B308}"/>
+						<Switch Name="High" ID="{B591A361-B824-4BC2-86B2-F58E42D68BF7}"/>
+					</ChildrenList>
+				</SwitchGroup>
+			</ChildrenList>
+		</WorkUnit>
 	</Switches>
 </WwiseDocument>
