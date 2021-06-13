@@ -15,11 +15,15 @@
 	],
 	"Plugins": [
 		{
-			"Name": "AdvancedSessions",
+			"Name": "Water",
 			"Enabled": true
 		},
 		{
 			"Name": "AdvancedSteamSessions",
+			"Enabled": true
+		},
+		{
+			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
