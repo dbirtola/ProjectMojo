@@ -1,0 +1,1 @@
+C:\4.26\Engine\Build\BatchFiles\RunUAT.bat BuildCookRun -project=C:\Projects\ProjectMojo\Mojo\Mojo.uproject -clientconfig=Development -serverconfig=Development -platform=Win64 -cook -server -serverplatform=Win64 -noclient -stage -pak -noP4
