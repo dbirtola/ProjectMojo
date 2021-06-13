@@ -3,12 +3,69 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="CrabGod" ID="{B5547F40-32FB-470A-8CA1-691FB4A7360E}">
+				<Event Name="StartMusic" ID="{E823A583-8830-458C-85D5-042F799C6959}">
 					<ChildrenList>
-						<Action Name="" ID="{645451DF-F119-4EF1-B9F9-7D59AEA5A429}" ShortID="397155731">
+						<Action Name="" ID="{D8125D91-E7F1-4A12-AA90-BCF5FBEB32CA}" ShortID="786022263">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="CrabGod" ID="{118D435F-AE3E-4751-A709-069E11DC22F7}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+									<ObjectRef Name="Music Switch" ID="{FCCF2C97-6DA0-4509-9822-EF317A3C8CD1}" WorkUnitID="{795A8867-BA05-4757-B272-98B21EE65364}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="StopMusic" ID="{20EFC0CC-C129-427D-98F0-78A335C5B415}">
+					<ChildrenList>
+						<Action Name="" ID="{501BE4C4-999F-4CC2-BD21-3E224E0E20C2}" ShortID="120494078">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music Switch" ID="{FCCF2C97-6DA0-4509-9822-EF317A3C8CD1}" WorkUnitID="{795A8867-BA05-4757-B272-98B21EE65364}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Paddle_Smack" ID="{8EF2A65C-13D0-4042-9DA9-964423663507}">
+					<ChildrenList>
+						<Action Name="" ID="{9B3E05A1-ED67-4411-ABDE-671497DFF08D}" ShortID="289484622">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Paddle Smack" ID="{2A6BB8A3-EC18-4662-BE93-E9405F61EA5C}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Splash" ID="{139257BB-0F1B-4332-AAA1-B00D67AA6B1A}">
+					<ChildrenList>
+						<Action Name="" ID="{8AA0E7FF-6E35-44DD-A0C7-3E77F2162E0C}" ShortID="870962004">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Splash" ID="{06B015DD-994B-451C-B912-B2C4980A5C98}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Ocean_Ambient" ID="{1140B88F-C294-4A14-AF71-2AA5AC315EAD}">
+					<ChildrenList>
+						<Action Name="" ID="{3413A5C2-C1D2-44DF-AA3D-76DD218BE142}" ShortID="204535872">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ocean Ambiant" ID="{122885C9-7A23-4506-BD4C-1690416EAD2C}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D8DF7221-B6D6-437B-9CA1-E3144AFA8B3D}" ShortID="571647457">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ocean Ambiant" ID="{122885C9-7A23-4506-BD4C-1690416EAD2C}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
