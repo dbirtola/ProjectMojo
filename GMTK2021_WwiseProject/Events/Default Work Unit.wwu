@@ -5,6 +5,12 @@
 			<ChildrenList>
 				<Event Name="StartMusic" ID="{E823A583-8830-458C-85D5-042F799C6959}">
 					<ChildrenList>
+						<Action Name="" ID="{0F28907B-9DB9-4552-8902-9ADE323B2A66}" ShortID="431312544">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="3"/>
+							</PropertyList>
+							<ReferenceList/>
+						</Action>
 						<Action Name="" ID="{D8125D91-E7F1-4A12-AA90-BCF5FBEB32CA}" ShortID="786022263">
 							<ReferenceList>
 								<Reference Name="Target">
@@ -41,6 +47,13 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Thump" ID="{B2EEDACC-E261-4A3E-9DE9-A9E06F371036}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{6C470166-54B3-4CE5-9C4C-1314805C041B}" ShortID="376869925">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Crunch" ID="{8C7069AB-A337-4628-9781-9E9293342B66}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>
@@ -95,6 +108,13 @@
 							<ReferenceList>
 								<Reference Name="Target">
 									<ObjectRef Name="Paddle Row" ID="{21F0D5E3-2DDD-43C0-92D0-06C3CE6A9B60}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{7F849617-7837-42E1-A111-A6F9BEF7D94C}" ShortID="640231012">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Paddle Row 2" ID="{48DC77DD-9C42-4133-94C9-78852A43BE1F}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

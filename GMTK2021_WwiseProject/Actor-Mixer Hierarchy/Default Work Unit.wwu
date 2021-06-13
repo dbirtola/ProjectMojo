@@ -6,6 +6,7 @@
 				<RandomSequenceContainer Name="Big_Splash" ID="{06B015DD-994B-451C-B912-B2C4980A5C98}" ShortID="63328004">
 					<PropertyList>
 						<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+						<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
 						<Property Name="Pitch" Type="int32">
 							<ModifierList>
 								<ModifierInfo>
@@ -135,6 +136,9 @@
 				<RandomSequenceContainer Name="Wake" ID="{C62AC3AF-2179-4A7D-8F49-B8E13CF48F32}" ShortID="346088373">
 					<PropertyList>
 						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>-230</Value>
+							</ValueList>
 							<ModifierList>
 								<ModifierInfo>
 									<Modifier Name="" ID="{8572B131-30F5-4795-8978-8B90E2074777}">
@@ -149,7 +153,7 @@
 						</Property>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>-11</Value>
+								<Value>-6</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -266,9 +270,11 @@
 				</Sound>
 				<RandomSequenceContainer Name="Paddle Row" ID="{21F0D5E3-2DDD-43C0-92D0-06C3CE6A9B60}" ShortID="75960123">
 					<PropertyList>
+						<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+						<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
 						<Property Name="Pitch" Type="int32">
 							<ValueList>
-								<Value>-10</Value>
+								<Value>-350</Value>
 							</ValueList>
 							<ModifierList>
 								<ModifierInfo>
@@ -283,7 +289,7 @@
 						</Property>
 						<Property Name="Volume" Type="Real64">
 							<ValueList>
-								<Value>1</Value>
+								<Value>-6</Value>
 							</ValueList>
 						</Property>
 					</PropertyList>
@@ -438,6 +444,8 @@
 					<ChildrenList>
 						<RandomSequenceContainer Name="Thump" ID="{B2EEDACC-E261-4A3E-9DE9-A9E06F371036}" ShortID="92706735">
 							<PropertyList>
+								<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+								<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
 								<Property Name="Pitch" Type="int32">
 									<ModifierList>
 										<ModifierInfo>
@@ -565,6 +573,8 @@
 						</RandomSequenceContainer>
 						<RandomSequenceContainer Name="Crack" ID="{411A81CF-59F8-4246-A758-09FCFE2D73D9}" ShortID="970020802">
 							<PropertyList>
+								<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+								<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
 								<Property Name="Pitch" Type="int32">
 									<ModifierList>
 										<ModifierInfo>
@@ -753,6 +763,115 @@
 									<ObjectLists/>
 									<ActiveSourceList>
 										<ActiveSource Name="Crack3" ID="{FE18B2DC-88DA-4815-B2EE-6FE4EBA4FFA0}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+							</ChildrenList>
+							<ObjectLists/>
+						</RandomSequenceContainer>
+						<RandomSequenceContainer Name="Crunch" ID="{8C7069AB-A337-4628-9781-9E9293342B66}" ShortID="1047129987">
+							<PropertyList>
+								<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+								<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<Sound Name="Crunch2" ID="{6456B70D-C4BE-4699-8075-17191FBC4580}" ShortID="287345109">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Crunch2" ID="{A6D7EB2B-09EC-47C7-A401-376A4EA9E155}">
+											<Language>SFX</Language>
+											<AudioFile>Crunch2.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="919942606"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="Crunch2" ID="{A6D7EB2B-09EC-47C7-A401-376A4EA9E155}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Crunch3" ID="{62826FC3-1578-4907-B0CE-57D68D158681}" ShortID="1007279270">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Crunch3" ID="{6704D310-E5CA-491E-89DC-1D3E95686EEB}">
+											<Language>SFX</Language>
+											<AudioFile>Crunch3.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="424204562"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="Crunch3" ID="{6704D310-E5CA-491E-89DC-1D3E95686EEB}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Crunch4" ID="{5073FD58-86ED-492E-A2D9-04DE32C0A978}" ShortID="456412680">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Crunch4" ID="{A3B88AC9-DABF-44DA-AE6F-6E94D603D975}">
+											<Language>SFX</Language>
+											<AudioFile>Crunch4.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="754530422"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="Crunch4" ID="{A3B88AC9-DABF-44DA-AE6F-6E94D603D975}" Platform="Linked"/>
+									</ActiveSourceList>
+								</Sound>
+								<Sound Name="Crunch" ID="{8775B53E-28A3-42AE-ADFA-C27927CE306C}" ShortID="711548612">
+									<ReferenceList>
+										<Reference Name="Conversion">
+											<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+										</Reference>
+										<Reference Name="OutputBus">
+											<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+										</Reference>
+									</ReferenceList>
+									<ChildrenList>
+										<AudioFileSource Name="Crunch" ID="{0008FF0B-E179-4B74-B9EE-3D7992BC4E9B}">
+											<Language>SFX</Language>
+											<AudioFile>Crunch.wav</AudioFile>
+											<MediaIDList>
+												<MediaID ID="986948928"/>
+											</MediaIDList>
+										</AudioFileSource>
+									</ChildrenList>
+									<ObjectLists/>
+									<ActiveSourceList>
+										<ActiveSource Name="Crunch" ID="{0008FF0B-E179-4B74-B9EE-3D7992BC4E9B}" Platform="Linked"/>
 									</ActiveSourceList>
 								</Sound>
 							</ChildrenList>
@@ -1273,6 +1392,10 @@
 					<ObjectLists/>
 				</RandomSequenceContainer>
 				<RandomSequenceContainer Name="MoneyBark" ID="{7B4FB293-F17F-4A71-BCB5-080AA04556DB}" ShortID="307243137">
+					<PropertyList>
+						<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+						<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
@@ -1424,6 +1547,9 @@
 					<ObjectLists/>
 				</RandomSequenceContainer>
 				<RandomSequenceContainer Name="PirateNoises" ID="{DBDD8B78-7613-4374-B506-DB8FDAF1167D}" ShortID="722304824">
+					<PropertyList>
+						<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+					</PropertyList>
 					<ReferenceList>
 						<Reference Name="Conversion">
 							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
@@ -1615,6 +1741,159 @@
 							<ObjectLists/>
 							<ActiveSourceList>
 								<ActiveSource Name="Yarr5" ID="{93F8D5D1-E758-442A-B8E0-6D9AD3634BC9}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+					</ChildrenList>
+					<ObjectLists/>
+				</RandomSequenceContainer>
+				<RandomSequenceContainer Name="Paddle Row 2" ID="{48DC77DD-9C42-4133-94C9-78852A43BE1F}" ShortID="810071410">
+					<PropertyList>
+						<Property Name="GlobalOrPerObject" Type="int16" Value="0"/>
+						<Property Name="NormalOrShuffle" Type="int16" Value="0"/>
+						<Property Name="Pitch" Type="int32">
+							<ValueList>
+								<Value>-350</Value>
+							</ValueList>
+							<ModifierList>
+								<ModifierInfo>
+									<Modifier Name="" ID="{3771C691-C837-41F4-A5D4-156441363CDB}">
+										<PropertyList>
+											<Property Name="Enabled" Type="bool" Value="True"/>
+											<Property Name="Max" Type="Real64" Value="20"/>
+											<Property Name="Min" Type="Real64" Value="-20"/>
+										</PropertyList>
+									</Modifier>
+								</ModifierInfo>
+							</ModifierList>
+						</Property>
+						<Property Name="Volume" Type="Real64">
+							<ValueList>
+								<Value>-11</Value>
+							</ValueList>
+						</Property>
+					</PropertyList>
+					<ReferenceList>
+						<Reference Name="Conversion">
+							<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+						</Reference>
+						<Reference Name="OutputBus">
+							<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+						</Reference>
+					</ReferenceList>
+					<ChildrenList>
+						<Sound Name="Row2-1" ID="{A560D434-2AA0-4000-AD01-4383217E3A3E}" ShortID="346257094">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Row2-1" ID="{31027123-01B2-43B9-B181-1192595A277F}">
+									<Language>SFX</Language>
+									<AudioFile>Row2-1.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="1049523730"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Row2-1" ID="{31027123-01B2-43B9-B181-1192595A277F}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Row2-2" ID="{DA27CDF0-F5E0-4C30-BF96-C494891431E6}" ShortID="1048819203">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Row2-2" ID="{0134C527-72C3-4294-83C4-91507666F7F6}">
+									<Language>SFX</Language>
+									<AudioFile>Row2-2.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="576960261"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Row2-2" ID="{0134C527-72C3-4294-83C4-91507666F7F6}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Row2-3" ID="{71578C3E-52E8-4E9A-A134-183587579C10}" ShortID="10260908">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Row2-3" ID="{35526FE6-3BA9-4C3E-9D23-CB392C5F59D1}">
+									<Language>SFX</Language>
+									<AudioFile>Row2-3.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="938519464"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Row2-3" ID="{35526FE6-3BA9-4C3E-9D23-CB392C5F59D1}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Row2-4" ID="{5AFBB80E-D4CA-4B89-B112-C4308B11E792}" ShortID="569216510">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Row2-4" ID="{0701F240-1B45-44A8-9DBC-A8FE7BB927CC}">
+									<Language>SFX</Language>
+									<AudioFile>Row2-4.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="373543797"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Row2-4" ID="{0701F240-1B45-44A8-9DBC-A8FE7BB927CC}" Platform="Linked"/>
+							</ActiveSourceList>
+						</Sound>
+						<Sound Name="Row2-5" ID="{395A3B9E-7AE9-4930-8613-CAC3DB2E3602}" ShortID="755132191">
+							<ReferenceList>
+								<Reference Name="Conversion">
+									<ObjectRef Name="Default Conversion Settings" ID="{6D1B890C-9826-4384-BF07-C15223E9FB56}" WorkUnitID="{5C7878B9-DF67-4F6D-BA15-08A49A7CD126}"/>
+								</Reference>
+								<Reference Name="OutputBus">
+									<ObjectRef Name="Master Audio Bus" ID="{1514A4D8-1DA6-412A-A17E-75CA0C2149F3}" WorkUnitID="{C1B31D2B-56AD-455C-ACED-F36360B8E7E9}"/>
+								</Reference>
+							</ReferenceList>
+							<ChildrenList>
+								<AudioFileSource Name="Row2-5" ID="{9BEF0EE0-8CFF-48FD-982C-417F430F0753}">
+									<Language>SFX</Language>
+									<AudioFile>Row2-5.wav</AudioFile>
+									<MediaIDList>
+										<MediaID ID="559045971"/>
+									</MediaIDList>
+								</AudioFileSource>
+							</ChildrenList>
+							<ObjectLists/>
+							<ActiveSourceList>
+								<ActiveSource Name="Row2-5" ID="{9BEF0EE0-8CFF-48FD-982C-417F430F0753}" Platform="Linked"/>
 							</ActiveSourceList>
 						</Sound>
 					</ChildrenList>
