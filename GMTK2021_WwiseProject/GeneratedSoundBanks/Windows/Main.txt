@@ -1,6 +1,43 @@
 Event	ID	Name			Wwise Object Path	Notes
-	2205857971	CrabGod			\Default Work Unit\CrabGod	
+	1917263390	StopMusic			\Default Work Unit\StopMusic	
+	3827058668	StartMusic			\Default Work Unit\StartMusic	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	2470328564	Intensity			\Default Work Unit\Intensity	
+	3991942870	Music			\Default Work Unit\Music	
+
+Switch	ID	Name	Switch Group			Notes
+	545371365	Low	Intensity			
+	981339021	Med	Intensity			
+	3550808449	High	Intensity			
+	77978275	Ambient	Music			
+	2937832959	Battle	Music			
 
 In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
-	702216684	CrabGod	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Eminem - Crab God (Full Version)_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\CrabGod		2313670
+	32827929	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Perc-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Perc		83106
+	136682939	Flute	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Flute-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Flute		90365
+	172943254	Accord	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Accord-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Accord		94279
+	214202636	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Drum-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Battle Drum		73362
+	238247643	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-String-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Strings		76649
+	286319657	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Tam-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Tam		93874
+	292983857	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Drum-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Battle Drum		72563
+	330154979	Tamb	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Tam-2-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Tamb		337847
+	384534134	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Strings-3-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Strings		387122
+	447846822	Drums	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Drum-2-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Drums		293093
+	597247365	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Strings-2-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Strings		388798
+	632064950	Accord	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Accord-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Accord		93743
+	651729511	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Drum-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Battle Drum		72967
+	657473456	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Perc-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Perc		85084
+	665791752	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Perc-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Perc		91149
+	760510657	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Tam-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Tam		96942
+	762714407	Transition	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\TransitionToAmbiant_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\TransitionToAmbiant\Transition		92416
+	798427293	Tamb	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Tam-1-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Tamb		338853
+	830779620	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Strings-1-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Strings		389386
+	875431385	Drums	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Drum-3-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Drums		299966
+	888214737	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-String-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Strings		86596
+	898058674	Tamb	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Tam-3-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Tamb		336250
+	939016445	Flute	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Flute-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Flute		91546
+	944438754	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-String-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Strings		87185
+	957780504	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Battle-Tam-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Tam		104816
+	985412649	Drums	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Windows\SFX\Amb_Drum-1-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Drums		294494
 

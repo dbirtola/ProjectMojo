@@ -16,11 +16,11 @@
 			"Enabled": true
 		},
 		{
-			"Name": "AdvancedSessions",
+			"Name": "AdvancedSteamSessions",
 			"Enabled": true
 		},
 		{
-			"Name": "AdvancedSteamSessions",
+			"Name": "AdvancedSessions",
 			"Enabled": true
 		},
 		{
