@@ -3,12 +3,164 @@
 	<Events>
 		<WorkUnit Name="Default Work Unit" ID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" PersistMode="Standalone">
 			<ChildrenList>
-				<Event Name="CrabGod" ID="{B5547F40-32FB-470A-8CA1-691FB4A7360E}">
+				<Event Name="StartMusic" ID="{E823A583-8830-458C-85D5-042F799C6959}">
 					<ChildrenList>
-						<Action Name="" ID="{645451DF-F119-4EF1-B9F9-7D59AEA5A429}" ShortID="397155731">
+						<Action Name="" ID="{D8125D91-E7F1-4A12-AA90-BCF5FBEB32CA}" ShortID="786022263">
 							<ReferenceList>
 								<Reference Name="Target">
-									<ObjectRef Name="CrabGod" ID="{118D435F-AE3E-4751-A709-069E11DC22F7}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+									<ObjectRef Name="Music Switch" ID="{FCCF2C97-6DA0-4509-9822-EF317A3C8CD1}" WorkUnitID="{795A8867-BA05-4757-B272-98B21EE65364}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="StopMusic" ID="{20EFC0CC-C129-427D-98F0-78A335C5B415}">
+					<ChildrenList>
+						<Action Name="" ID="{501BE4C4-999F-4CC2-BD21-3E224E0E20C2}" ShortID="120494078">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music Switch" ID="{FCCF2C97-6DA0-4509-9822-EF317A3C8CD1}" WorkUnitID="{795A8867-BA05-4757-B272-98B21EE65364}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PaddleSmack" ID="{8EF2A65C-13D0-4042-9DA9-964423663507}">
+					<ChildrenList>
+						<Action Name="" ID="{1F10AD0F-E7A7-4BCA-A8F0-F91443CCFDDD}" ShortID="360892440">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Crack" ID="{411A81CF-59F8-4246-A758-09FCFE2D73D9}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{E84DB9D2-103A-4592-BB24-D5751980AEF7}" ShortID="101068982">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Thump" ID="{B2EEDACC-E261-4A3E-9DE9-A9E06F371036}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="BigSplash" ID="{139257BB-0F1B-4332-AAA1-B00D67AA6B1A}">
+					<ChildrenList>
+						<Action Name="" ID="{8AA0E7FF-6E35-44DD-A0C7-3E77F2162E0C}" ShortID="870962004">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Big_Splash" ID="{06B015DD-994B-451C-B912-B2C4980A5C98}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="OceanAmbient" ID="{1140B88F-C294-4A14-AF71-2AA5AC315EAD}">
+					<ChildrenList>
+						<Action Name="" ID="{3413A5C2-C1D2-44DF-AA3D-76DD218BE142}" ShortID="204535872">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="2"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ocean Ambiant" ID="{122885C9-7A23-4506-BD4C-1690416EAD2C}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+						<Action Name="" ID="{D8DF7221-B6D6-437B-9CA1-E3144AFA8B3D}" ShortID="571647457">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Ocean Ambiant" ID="{122885C9-7A23-4506-BD4C-1690416EAD2C}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="CrewJoin" ID="{242C0252-25C5-4EAD-B0EF-488D2F49528C}">
+					<ChildrenList>
+						<Action Name="" ID="{8951C70F-5B0B-4B49-9984-DC61586B5BD8}" ShortID="212351616">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="CrewJoin" ID="{CF665DEC-42D5-4D04-9040-9BE53F64B9F7}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Row" ID="{13586EBF-D667-45CF-AAFE-77FF5BFD42EF}">
+					<ChildrenList>
+						<Action Name="" ID="{72CCDABC-BFEB-4BAE-9A7C-CAC8E9B72148}" ShortID="465484718">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Paddle Row" ID="{21F0D5E3-2DDD-43C0-92D0-06C3CE6A9B60}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Wake" ID="{A05082F9-2BC5-4886-BC6A-C479C4AEE782}">
+					<ChildrenList>
+						<Action Name="" ID="{16938959-71F9-4BA7-8A9B-B146363255D1}" ShortID="822139611">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Wake" ID="{C62AC3AF-2179-4A7D-8F49-B8E13CF48F32}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="DamageBark" ID="{ED825D10-E515-4B58-B425-7D090C614039}">
+					<ChildrenList>
+						<Action Name="" ID="{1357BD75-50CE-402B-A17C-8DCE297A5E41}" ShortID="501900473">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="DamageBark" ID="{7D195089-4B38-4FC5-828B-514DAB3C53E1}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemyDefeated" ID="{CD23805C-E6A3-4D2C-8264-251D75DF81EA}">
+					<ChildrenList>
+						<Action Name="" ID="{CCAD5E8E-A355-43A8-A1A9-E06D812D6914}" ShortID="702581278">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemyDefeated" ID="{7569A7E1-9FC4-46B6-97CF-66C34638D805}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="EnemySpotted" ID="{29978F40-310A-494E-8CCE-B7A7C83FB912}">
+					<ChildrenList>
+						<Action Name="" ID="{4F108C7C-46E1-4CCF-8D63-E0712777D317}" ShortID="697995975">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemySpotted" ID="{937BD8DF-0485-4E24-A5BB-34181393370C}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="MoneyBark" ID="{9B3F9F38-4999-47A0-A749-4A59617E931D}">
+					<ChildrenList>
+						<Action Name="" ID="{55A4CE21-4B94-43BE-9A35-E4F37D5B7EF7}" ShortID="207856287">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="MoneyBark" ID="{7B4FB293-F17F-4A71-BCB5-080AA04556DB}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="PirateNoises" ID="{05784CB6-7C35-4DA7-8FD0-4B23BB2EB3B5}">
+					<ChildrenList>
+						<Action Name="" ID="{1FBFC03B-FD9D-4BB7-A571-49452AFABB52}" ShortID="933564970">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="PirateNoises" ID="{DBDD8B78-7613-4374-B506-DB8FDAF1167D}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}"/>
 								</Reference>
 							</ReferenceList>
 						</Action>

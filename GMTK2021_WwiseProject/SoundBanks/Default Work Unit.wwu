@@ -5,10 +5,10 @@
 			<ChildrenList>
 				<SoundBank Name="Main" ID="{A1BC57D3-58FD-46E8-B2D7-27E3D5EC08BC}">
 					<ObjectInclusionList>
-						<ObjectRef Name="Default Work Unit" ID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="StopMusic" ID="{20EFC0CC-C129-427D-98F0-78A335C5B415}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Music Switch" ID="{FCCF2C97-6DA0-4509-9822-EF317A3C8CD1}" WorkUnitID="{795A8867-BA05-4757-B272-98B21EE65364}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="StartMusic" ID="{E823A583-8830-458C-85D5-042F799C6959}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" Origin="Manual" Filter="7"/>
 						<ObjectRef Name="Default Work Unit" ID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="CrabGod" ID="{B5547F40-32FB-470A-8CA1-691FB4A7360E}" WorkUnitID="{18C18D01-E93E-4520-953D-7A657D85F5C6}" Origin="Manual" Filter="7"/>
-						<ObjectRef Name="CrabGod" ID="{118D435F-AE3E-4751-A709-069E11DC22F7}" WorkUnitID="{7F6AFA36-02A0-45EC-9968-9D0236F2DC58}" Origin="Manual" Filter="7"/>
 					</ObjectInclusionList>
 					<ObjectExclusionList/>
 					<GameSyncExclusionList/>
