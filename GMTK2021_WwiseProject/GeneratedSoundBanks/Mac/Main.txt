@@ -28,26 +28,28 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	5439432	Money2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Money2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\MoneyBark\Money2		56605
 	7316151	Damage Bark 5	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Damage Bark 5_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageBark\Damage Bark 5		45116
 	10129542	Yarr4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Yarr4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\PirateNoises\Yarr4		33225
-	32827929	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Perc-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Perc		83106
+	32827929	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Perc-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Perc		83106
 	87803640	Damage Bark 3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Damage Bark 3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageBark\Damage Bark 3		43132
 	109948011	Money3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Money3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\MoneyBark\Money3		43768
 	118482147	Wake1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Wake1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wake\Wake1		51058
-	136682939	Flute	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Flute-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Flute		90365
+	136682939	Flute	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Flute-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Flute		90365
 	138861754	Damage Bark 1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Damage Bark 1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageBark\Damage Bark 1		42303
 	140253839	Money1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Money1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\MoneyBark\Money1		43112
-	172943254	Accord	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Accord-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Accord		94279
-	214202636	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Drum-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Battle Drum		73362
+	172943254	Accord	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Accord-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Medium Intensity\Accord		94279
+	214202636	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Drum-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Medium Intensity\Battle Drum		73362
 	238247643	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-String-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Strings		76649
-	286319657	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Tam-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Tam		93874
-	292983857	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Drum-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Battle Drum		72563
+	286319657	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Tam-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Tam		93874
+	292983857	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Drum-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Medium Intensity\Battle Drum		72563
 	302783331	arghh3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\arghh3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\PirateNoises\arghh3		19489
 	312374485	Money4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Money4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\MoneyBark\Money4		20942
 	330154979	Tamb	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Amb_Tam-2-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Tamb		337847
 	351485201	Crack1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Crack1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Crack\Crack1		10962
+	373543797	Row2-4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row2-4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row 2\Row2-4		26719
 	375021392	Row5	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row5_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row\Row5		41255
 	384534134	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Amb_Strings-3-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Strings		387122
 	407688249	Damage Bark 7	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Damage Bark 7_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageBark\Damage Bark 7		45222
 	414580747	Row2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row\Row2		38532
+	424204562	Crunch3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Crunch3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Crunch\Crunch3		11078
 	435793688	arghh2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\arghh2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\PirateNoises\arghh2		34930
 	447846822	Drums	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Amb_Drum-2-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Drums		293093
 	472181904	Big_Splash1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Big_Splash1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Big_Splash\Big_Splash1		76439
@@ -56,24 +58,27 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	530662548	DefeatEnemy6	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\DefeatEnemy6_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemyDefeated\DefeatEnemy6		22022
 	543625551	Yarr2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Yarr2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\PirateNoises\Yarr2		35215
 	554714832	Enemy Spotted Bark 3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Enemy Spotted Bark 3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySpotted\Enemy Spotted Bark 3		51325
+	559045971	Row2-5	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row2-5_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row 2\Row2-5		12260
 	560007929	Yarr3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Yarr3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\PirateNoises\Yarr3		35427
 	567832308	Damage Bark 2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Damage Bark 2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageBark\Damage Bark 2		43096
+	576960261	Row2-2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row2-2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row 2\Row2-2		20905
 	581843496	Damage Bark 8	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Damage Bark 8_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageBark\Damage Bark 8		47973
 	597247365	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Amb_Strings-2-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Strings		388798
 	598001137	Thump4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Thump4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Thump\Thump4		10280
 	622334513	Wake3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Wake3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Wake\Wake3		54813
 	627774719	Big_Splash3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Big_Splash3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Big_Splash\Big_Splash3		80141
-	632064950	Accord	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Accord-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Accord		93743
+	632064950	Accord	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Accord-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Medium Intensity\Accord		93743
 	635722764	Row4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row\Row4		40513
 	642288222	arghh1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\arghh1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\PirateNoises\arghh1		35674
 	646956708	Damage Bark 4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Damage Bark 4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\DamageBark\Damage Bark 4		39432
-	651729511	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Drum-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Battle Drum		72967
+	651729511	Battle Drum	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Drum-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Medium Intensity\Battle Drum		72967
 	653681096	Row3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row\Row3		38604
-	657473456	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Perc-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Perc		85084
-	665791752	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Perc-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Perc		91149
+	657473456	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Perc-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Perc		85084
+	665791752	Perc	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Perc-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Perc		91149
 	675923121	DefeatEnemy5	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\DefeatEnemy5_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemyDefeated\DefeatEnemy5		37452
 	743469211	DefeatEnemy1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\DefeatEnemy1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemyDefeated\DefeatEnemy1		45080
-	760510657	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Tam-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Tam		96942
+	754530422	Crunch4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Crunch4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Crunch\Crunch4		13494
+	760510657	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Tam-3-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Tam		96942
 	761595500	Enemy Spotted Bark 4	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Enemy Spotted Bark 4_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySpotted\Enemy Spotted Bark 4		50149
 	762714407	Transition	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\TransitionToAmbiant_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\TransitionToAmbiant\Transition		92416
 	766101947	Yarr5	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Yarr5_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\PirateNoises\Yarr5		32012
@@ -92,16 +97,20 @@ In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
 	888214737	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-String-2-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Strings		86596
 	898058674	Tamb	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Amb_Tam-3-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Tamb		336250
 	913226261	Row1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row\Row1		39244
+	919942606	Crunch2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Crunch2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Crunch\Crunch2		11992
 	927214286	Enemy Spotted Bark 1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Enemy Spotted Bark 1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySpotted\Enemy Spotted Bark 1		44189
-	939016445	Flute	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Flute-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Flute		91546
+	938519464	Row2-3	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row2-3_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row 2\Row2-3		23032
+	939016445	Flute	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Flute-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Flute		91546
 	944438754	Strings	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-String-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Strings		87185
 	957618380	DefeatEnemy7	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\DefeatEnemy7_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemyDefeated\DefeatEnemy7		23435
-	957780504	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Tam-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\High\High Intensity\Tam		104816
+	957780504	Tam	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Battle-Tam-1-120bpm_6-8_4m-1P_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Intensity\Low\Low Intensity\Tam		104816
 	961101288	Thump2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Thump2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Thump\Thump2		10274
 	969188665	Thump1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Thump1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Thump\Thump1		9914
 	983729336	Enemy Spotted Bark 2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Enemy Spotted Bark 2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemySpotted\Enemy Spotted Bark 2		45972
 	985412649	Drums	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Amb_Drum-1-120bpm_6-8_2E_D499A687.wem		\Interactive Music Hierarchy\Default Work Unit\Music Switch\Ambiant\Ambient Track\Drums		294494
+	986948928	Crunch	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Crunch_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Smack\Crunch\Crunch		12923
 	996755874	Money5	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Money5_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\MoneyBark\Money5		40580
 	997246294	DefeatEnemy2	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\DefeatEnemy2_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemyDefeated\DefeatEnemy2		45770
+	1049523730	Row2-1	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\Row2-1_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\Paddle Row 2\Row2-1		21845
 	1067277082	CrewJoin	J:\Game Design Projects\GMTK2021\GMTK2021_WwiseProject\.cache\Mac\SFX\pirates_joining_ship_64D0E4B9.wem		\Actor-Mixer Hierarchy\Default Work Unit\CrewJoin		90233
 

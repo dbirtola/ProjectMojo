@@ -15,7 +15,9 @@
 						</Module>
 					</ModuleList>
 					<RTPCValueList ShowAll="true"/>
-					<CurrentStateList ShowAll="true"/>
+					<CurrentStateList ShowAll="true">
+						<CurrentStateRef Name="Low" ID="{27DD0F3F-6898-4FA4-A294-D13E63E84147}"/>
+					</CurrentStateList>
 					<CurrentSwitchList ShowAll="true">
 						<CurrentSwitchRef Name="High" ID="{B591A361-B824-4BC2-86B2-F58E42D68BF7}"/>
 						<CurrentSwitchRef Name="Ambient" ID="{A15A3976-BA57-4FA4-8101-3A1FFC600014}"/>

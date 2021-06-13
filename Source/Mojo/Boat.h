@@ -30,6 +30,8 @@ protected:
 	UFUNCTION(BlueprintImplementableEvent)
 	void BPUpgradeBoat();
 	
+/*
 virtual void PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent) override;
+*/
 	
 };
