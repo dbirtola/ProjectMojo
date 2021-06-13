@@ -23,6 +23,7 @@ void ABoat::Tick(float DeltaTime)
 	Super::Tick(DeltaTime);
 
 }
+/*
 
 void ABoat::PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent)
 {
@@ -32,3 +33,4 @@ void ABoat::PostEditChangeProperty(FPropertyChangedEvent& PropertyChangedEvent)
 		BPUpgradeBoat();
 	}
 }
+*/
